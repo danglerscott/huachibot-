@@ -1,3 +1,3 @@
-# Demo
+# Automatic email sender 
 
-description!
+weather and several automatic features using python 
